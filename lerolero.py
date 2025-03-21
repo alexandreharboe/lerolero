@@ -24,5 +24,12 @@ parte3 = [
 	", provendo ampla vantagem competitiva a seus usuário"
 ]
 
+lingua = int(input("Escolha a lingua: 1- Portugues 2- Ingles\n"))
+
+if lingua == 2:
+	parte1 = []
+	parte2 = []
+	parte3 = []
+
 #combina partes aleatoriamente
 print (random.choice(parte1), random.choice(parte2), random.choice(parte3))
