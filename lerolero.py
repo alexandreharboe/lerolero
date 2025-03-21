@@ -2,6 +2,8 @@
 """Gerador de lero-lero
 
 Gera frases de efeito sem significado real."""
+# Alexandre Harboe (15436950) e Nuno Gomes (15482441)
+#https://github.com/alexandreharboe/lerolero/commits/main/
 
 import random
 
